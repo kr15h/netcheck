@@ -22,3 +22,7 @@ su - pi -c /abs/path/to/netcheck.sh &
 ```
 
 That's it! If you have better instructions on how to launch it on boot, let me know!
+
+## License
+
+15 lines of script does not need one.
